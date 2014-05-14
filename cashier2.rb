@@ -1,3 +1,5 @@
+# this is a test for git
+
 puts "What is the price of the first item?"
 price = gets.chomp
 price_arr = []
